@@ -3,7 +3,7 @@ cat("\014")
 closeAllConnections()
 rm(list=ls())
 
-setwd("/Users/ingridwijaya/Desktop/Courses/Regression/")
+setwd("/Regression/")
 
 ####################################################################################
 # Data prepration
